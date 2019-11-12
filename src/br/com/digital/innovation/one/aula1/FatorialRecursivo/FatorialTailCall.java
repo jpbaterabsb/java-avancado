@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.FatorialRecursivo;
+package br.com.digital.innovation.one.aula1.FatorialRecursivo;
 
 public class FatorialTailCall {
     public static void main(String[] args) {

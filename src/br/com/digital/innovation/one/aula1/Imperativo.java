@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one;
+package br.com.digital.innovation.one.aula1;
 
 public class Imperativo {
     public static void main(String[] args) {

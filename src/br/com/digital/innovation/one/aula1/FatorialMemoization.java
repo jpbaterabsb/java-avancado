@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one;
+package br.com.digital.innovation.one.aula1;
 
 import java.util.HashMap;
 import java.util.Map;
