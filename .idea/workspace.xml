@@ -2,157 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e071ad-cb7c-4f94-ad99-ee0b4b144e1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Consumidores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/FuncaoAltaOrdem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Funcoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Iteracoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Predicados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Suplidores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2244f4bd9b92dd4f7e9a46125fc69c81a95095e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d89973ee4fad9e689be852790c879625b7249f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a6a85ec47271f4a98271e2a271a98f834e5606f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94c6ea3288352fff406d688c3b4d24301063e245" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9afdcd4eafce08ca9928a2d728bdba6b2bf17b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/FutureExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ParallelStreamExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ThreadExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula5/InferenciaExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/ClientHttpExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/CollectionExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/InferenciaLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringIsBlankExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringLinesExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/ComposicaoDeFuncoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FatorialMemoization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FatorialRecursivo/FatorialRecursivo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FatorialRecursivo/FatorialTailCall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Funcao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Funcao1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FuncaoComClasseAnonima$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FuncaoComClasseAnonima.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FuncaoComLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Funcional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/FuncoesPuras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Imperativo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Imutabilidade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-funcional/br/com/digital/innovation/one/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/ComposicaoDeFuncoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/ComposicaoDeFuncoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialMemoization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialMemoization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialRecursivo/FatorialRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialRecursivo/FatorialRecursivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialRecursivo/FatorialTailCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialRecursivo/FatorialTailCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Funcao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncaoComClasseAnonima.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncaoComClasseAnonima.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncaoComLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncaoComLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Funcional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncoesPuras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncoesPuras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Imperativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Imperativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Imutabilidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Imutabilidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digital/innovation/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-funcional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-funcional.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialMemoization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Suplidores.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="42" />
-              <folding>
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Funcoes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Consumidores.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Iteracoes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/FuncaoAltaOrdem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-end-line="17" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Predicados.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="48" column="11" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,131 +41,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Main.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Imperativo.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Funcional.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncoesPuras.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Funcao.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncaoComLambda.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/ComposicaoDeFuncoes.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Imutabilidade.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/Aula.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FuncaoComClasseAnonima.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialRecursivo/FatorialRecursivo.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialRecursivo/FatorialTailCall.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/FatorialMemoization.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialMemoization.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Consumers.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/FuncaoAltaOrdem.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Funcoes.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Predicados.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Suppliers.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Supridores.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Suplidores.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Consumidores.java" />
-        <option value="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Iteracoes.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="729" />
-  </component>
+  <component name="ProjectId" id="1VqBmaNXAIJBENvTI36CboHGqqy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-funcional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-funcional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-funcional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-funcional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-              <item name="aula2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-funcional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573601399320" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coupon-management" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Iteracoes">
-    <configuration name="Consumidores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula2.Consumidores" />
+  <component name="RunManager" selected="Application.Teste">
+    <configuration name="CollectionExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.CollectionExemplo" />
       <module name="java-funcional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.digital.innovation.one.aula2.*" />
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula2.Funcoes" />
+    <configuration name="StringIsBlankExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringIsBlankExemplo" />
       <module name="java-funcional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.digital.innovation.one.aula2.*" />
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iteracoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula2.Iteracoes" />
+    <configuration name="StringLinesExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringLinesExemplo" />
       <module name="java-funcional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.digital.innovation.one.aula2.*" />
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Predicados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula2.Predicados" />
+    <configuration name="StringRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula6.StringRepeat" />
       <module name="java-funcional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.digital.innovation.one.aula2.*" />
+          <option name="PATTERN" value="br.com.digital.innovation.one.aula6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suplidores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.aula2.Suplidores" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digital.innovation.one.Teste" />
       <module name="java-funcional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.digital.innovation.one.aula2.*" />
+          <option name="PATTERN" value="br.com.digital.innovation.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,15 +129,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.StringIsBlankExemplo" />
+      <item itemvalue="Application.StringLinesExemplo" />
+      <item itemvalue="Application.CollectionExemplo" />
+      <item itemvalue="Application.StringRepeat" />
+      <item itemvalue="Application.Teste" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Iteracoes" />
-        <item itemvalue="Application.Suplidores" />
-        <item itemvalue="Application.Predicados" />
-        <item itemvalue="Application.Funcoes" />
-        <item itemvalue="Application.Consumidores" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.StringRepeat" />
+        <item itemvalue="Application.CollectionExemplo" />
+        <item itemvalue="Application.StringLinesExemplo" />
+        <item itemvalue="Application.StringIsBlankExemplo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -369,247 +168,139 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571106841565</updated>
+      <workItem from="1577970906591" duration="7976000" />
+      <workItem from="1578177585597" duration="15431000" />
+      <workItem from="1578398653392" duration="1831000" />
+      <workItem from="1578755215358" duration="1329000" />
+      <workItem from="1578756708353" duration="6467000" />
+      <workItem from="1578863627366" duration="14848000" />
+      <workItem from="1578930043964" duration="2249000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987441" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Imperativo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Aula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/ComposicaoDeFuncoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncoesPuras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Imutabilidade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/Funcao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncaoComClasseAnonima.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="71" selection-start-line="4" selection-start-column="7" selection-end-line="10" selection-end-column="71" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FuncaoComLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="67" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialRecursivo/FatorialRecursivo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialRecursivo/FatorialTailCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula1/FatorialMemoization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/FuncaoAltaOrdem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-end-line="17" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="803" column="15" selection-start-line="803" selection-start-column="11" selection-end-line="803" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Funcoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="633" column="18" selection-start-line="633" selection-start-column="11" selection-end-line="633" selection-end-column="18" />
-          <folding>
-            <element signature="e#23072#23073#0" expanded="true" />
-            <element signature="e#23112#23113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Predicados.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Suplidores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Consumidores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/digital/innovation/one/aula2/Iteracoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#Project_Structure" timestamp="1578865037388">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#Project_Structure/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578865037388" />
+    <state x="2334" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578871470172">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2334" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578871470172" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1577973163149">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577973163149" />
+    <state x="2634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578182218320">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2634" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578182218320" />
+    <state x="2635" y="229" key="#xdebugger.evaluate" timestamp="1578868857047">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2635" y="229" key="#xdebugger.evaluate/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868857047" />
+    <state x="592" y="223" key="FileChooserDialogImpl" timestamp="1578922209044">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="2660" y="281" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578757591570" />
+    <state x="592" y="223" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578922209044" />
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.center" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.left" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1493" height="352" key="GridCell.Tab.0.right" timestamp="1578944057579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578944057579" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873330702" />
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578930371683" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1578922210480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578922210480" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987881" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1578922210479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578868987882" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578922210479" />
+    <state x="584" y="352" key="ReplaceDuplicatesPrompt" timestamp="1577977744325">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="584" y="352" key="ReplaceDuplicatesPrompt/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577977744325" />
+    <state x="2360" y="100" key="SettingsEditor" timestamp="1578863698519">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2360" y="100" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578863698519" />
+    <state x="2533" y="200" width="675" height="660" key="StructurePopup" timestamp="1578761889268">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="159" width="540" height="524" key="StructurePopup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577972687287" />
+    <state x="2533" y="200" width="675" height="660" key="StructurePopup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578761889268" />
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578186741054">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2012" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578186741054" />
+    <state x="2501" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1578863650034">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578177598474" />
+    <state x="2501" y="306" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578863650034" />
+    <state x="2584" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578865022183">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2584" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578865022183" />
+    <state x="2544" y="219" width="538" height="495" key="extract.method.dialog" timestamp="1578873299954">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="499" y="174" width="538" height="495" key="extract.method.dialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1577977801055" />
+    <state x="2544" y="219" key="extract.method.dialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578873299954" />
+    <state x="2575" y="257" width="739" height="606" key="find.popup" timestamp="1578866362697">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2575" y="257" width="739" height="606" key="find.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578866362697" />
+    <state x="209" y="39" key="new project wizard" timestamp="1578447098533">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1578447098533" />
+    <state x="2622" y="145" key="refactoring.ChangeSignatureDialog" timestamp="1578180360606">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2622" y="145" key="refactoring.ChangeSignatureDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578180360606" />
+    <state x="2536" y="243" key="run.anything.popup" timestamp="1578187191000">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="243" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578187191000" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578761731738">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578761731738" />
   </component>
 </project>

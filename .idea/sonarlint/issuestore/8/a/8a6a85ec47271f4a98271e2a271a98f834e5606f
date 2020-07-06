@@ -1,0 +1,10 @@
+
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ü ï¦ÿÿÿÿÿ8Ó–ùáù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Å†¯üÿÿÿÿ8Ó–ùáù-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ó–ùáù-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó–ùáù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·¿ÿËùÿÿÿÿ8Ó–ùáù-
+ksquid:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(·¿ÿËùÿÿÿÿ8Ó–ùáù-

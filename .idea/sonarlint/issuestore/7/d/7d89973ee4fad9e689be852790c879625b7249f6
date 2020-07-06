@@ -1,0 +1,22 @@
+
+U
+squid:S106/"9Replace this use of System.out or System.err by a logger.(çöà@8Ïô»š÷-
+U
+squid:S106]"9Replace this use of System.out or System.err by a logger.(…Ì¯8±´‰š÷-
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³¢´š÷-
+dsquid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8³¢´š÷-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³¢´š÷-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8§§‘›÷-
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Ìÿ…º8±´‰š÷-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§§‘›÷-
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¡Ï²»8±´‰š÷-
+Ssquid:S1610K"6Convert the abstract class "Comodo" into an interface.(æïï8±´‰š÷-
+psquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÎş×8èØÒš÷-
+usquid:S00117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«™÷šşÿÿÿÿ8ª…Óš÷-
+gsquid:S2147$"DCombine this catch with the one at line 34, which has the same body.(åşŒóùÿÿÿÿ8³¢´š÷-
+psquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼º§8¨”Ôš÷-
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Àòÿ;8³¢´š÷-
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(º™Ú78±ØÎš÷-

@@ -1,0 +1,54 @@
+
+esquid:S00112]"FDefine and throw a dedicated exception instead of using a generic one.(»®Ì8Îõßù-
+dsquid:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8­¥Ùßù-
+\
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(¨ÂÊŸüÿÿÿÿ8´Ú¥Şù-
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(¯øë—ıÿÿÿÿ8Îõßù-
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8Îõßù-
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ò¬Ëßşÿÿÿÿ8Îõßù-
+dsquid:S2142P"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8òæİßù-
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¯øë—ıÿÿÿÿ8òæİßù-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(÷²…8ääßù-
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(–¨êÔ8òæİßù-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(íøÚÿÿÿÿÿÿ8üŞÈßù-
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(–¨êÔ8Îõßù-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÕØø·şÿÿÿÿ8£“”ßù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Æªèşÿÿÿÿ8Ô£ëŞù-
+Ksquid:S1604"(Make this anonymous inner class a lambda(ø±¶˜úÿÿÿÿ8–ØÒŞù-
+esquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Îõßù-
+jsquid:UnusedPrivateMethod">Remove this unused private "connectAkamaiHttp11Client" method.(÷²…8®Öàù-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8Ã¾•ßù-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èé„™8®ÓÕŞù-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÆ¡ë8Îõßù-
+ssquid:UnusedPrivateMethodœ"ARemove this unused private "connectAndPrintURLJavaOracle" method.(ôï’Áÿÿÿÿÿ8òæİßù-
+[
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ÕØø·şÿÿÿÿ8Îõßù-
+[
+squid:S106^"9Replace this use of System.out or System.err by a logger.(‡úüÿÿÿÿ8Îõßù-
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ğ™ò†üÿÿÿÿ8Ì¨Şù-
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(½¹ãÚúÿÿÿÿ8Îõßù-
+esquid:S2142ƒ"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8Îõßù-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(½¹ãÚúÿÿÿÿ8£“”ßù-
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ÌÆ¡ë8åçßßù-
+\
+squid:S106§"9Replace this use of System.out or System.err by a logger.(€¢£Áÿÿÿÿÿ8òæİßù-
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(íøÚÿÿÿÿÿÿ8Îõßù-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ò¬Ëßşÿÿÿÿ8àõÚßù-

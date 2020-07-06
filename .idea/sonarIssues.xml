@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/dd61ace5-7b85-4ee8-990a-9e93e8a27afb/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/CouponManagementApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/annotations/Audit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/annotations/Exists.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/annotations/NoAudit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/audit/interceptors/AuditAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/config/WebMvcConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/constants/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/entities/Batch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/repositories/BaseRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/repositories/BatchRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/repositories/CouponBaseRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/repositories/CouponRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/rest/BatchRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/services/BatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/services/BatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/services/CouponServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/java/br/com/livelo/coupon/template/core/TemplateXls.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/resources/application-tst.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/CouponTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/configuration/CouponTestConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/controllers/BatchControllerIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/controllers/BatchControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/controllers/CouponControllerIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/controllers/CouponControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/services/BatchServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/java/br/com/livelo/coupon/services/CouponServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coupon-management/src/test/resources/json/AvailableBatchesSuccessResponse.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/Teste.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/FutureExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ParallelStreamExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/PararelStreamExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula3/ThreadExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula5/InferenciaExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/ClientHttpExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/CollectionExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/Http11.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/Http11ClientExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/Http2ClientExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/Http2PushExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/InferenciaLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringIsBlankExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringLinesExemplo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/br/com/digital/innovation/one/aula6/StringRepeat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
